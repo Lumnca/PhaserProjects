@@ -1,0 +1,46 @@
+{
+    "map": {
+        "width": 3174,
+        "height": 2246,
+        "tiles": [
+            
+        ],
+        "cities": [
+            {
+                "id": 1,
+                "name": "City 1",
+                "x": 952,
+                "y": 1125,
+                "neighbor" : [2,5]
+            },
+            {
+                "id": 2,
+                "name": "City 2",
+                "x": 1169,
+                "y": 1850,
+                "neighbor" : [1]
+            },
+            {
+                "id": 3,
+                "name": "City 3",
+                "x": 300,
+                "y": 900,
+                "neighbor" : [4]
+            },
+            {
+                "id": 4,
+                "name": "City 4",
+                "x": 2000,
+                "y": 550,
+                "neighbor" : [3]
+            },
+            {
+                "id": 5,
+                "name": "City 5",
+                "x": 3600,
+                "y": 500,
+                "neighbor" : [1]
+            }
+        ]
+    }
+}
